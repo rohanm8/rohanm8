@@ -1,4 +1,4 @@
-- Hi, I’m @rohanm8
+- Hi, I’m Rohan Mane
 - I’m interested in Data science, AI and ML
 
 <!---
