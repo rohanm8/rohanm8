@@ -1,5 +1,5 @@
 - Hi, I’m Rohan Mane
-- I’m interested in Data science, AI and ML
+- 3rd year Computer Science
 
 <!---
 rohanm8/rohanm8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
