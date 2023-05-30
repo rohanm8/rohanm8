@@ -1,5 +1,5 @@
 <h2>Greetings, </h2>
-- My name is Rohan Mane.
+- My name is Rohan Mane. <br>
 - 4th year Computer Science
 
 <!---
