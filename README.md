@@ -1,6 +1,6 @@
 <h2>Greetings, </h2>
 - My name is Rohan Mane. <br>
-- 4th year Computer Science
+- Graduate Computer Science
 
 <!---
 rohanm8/rohanm8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
