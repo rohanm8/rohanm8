@@ -1,6 +1,8 @@
-<h2>Greetings, </h2>
-I am Rohan Mane, a graduate student based in the USA. <br>
-Currently pursuing a Master's of Science in Computer Science.
+# Rohan Mane
+
+<i>Greetings,</i><br>
+. Currently pursuing a Master's of Science in Computer Science.<br>
+. Based in the United States of America
 
 ---
 
