@@ -1,4 +1,4 @@
-# Greetings, I'm Rohan Mane
+# 🌊 Rohan Mane
 
 **DATA SCIENCE | MACHINE LEARNING | NATURAL LANGUAGE PROCESSING**
 
