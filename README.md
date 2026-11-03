@@ -1,6 +1,6 @@
 # Greetings, I'm Rohan Mane
 
-**Data Science | Machine Learning | Natural Language Processing**
+**DATA SCIENCE | MACHINE LEARNING | NATURAL LANGUAGE PROCESSING**
 
 I enjoy building end-to-end ML systems—from data preprocessing and model evaluation to semantic search, recommender systems, and full-stack applications.
 
