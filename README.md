@@ -6,13 +6,12 @@ I enjoy working with data to uncover patterns, extract meaningful insights, and 
 
 ## Featured Work
 
-### DISCOVER — Smart-Home Activity Recognition Research
-Reproduced a self-supervised activity-recognition approach using **BERT masked language modeling** and **SCAN clustering**. Worked with **647K+ sensor events**. Also built a **FastAPI + React/TypeScript** annotation tool with an interactive floorplan and timeline playback.
+**Smart-Home Activity Recognition :** Reproduced a self-supervised activity-recognition approach using **BERT masked language modeling** and **SCAN clustering**. Worked with **647K+ sensor events**. Also built a **FastAPI + React/TypeScript** annotation tool with an interactive floorplan and timeline playback.
 
-### [Twitter Sentiment Analysis](https://github.com/rohanm8/twitter-sentiment-analysis)
+**[Twitter Sentiment Analysis](https://github.com/rohanm8/twitter-sentiment-analysis) :**
 Built a reproducible NLP classification pipeline with **spaCy, TF-IDF, scikit-learn, and XGBoost**. Evaluated models on **74K+ tweets**.
 
-### [Agentic AI Game Recommendation System](https://github.com/rohanm8/RecAI_project)
+**[Agentic AI Game Recommendation System](https://github.com/rohanm8/RecAI_project) :**
 Developed a semantic recommendation system over SteamDB games database, combining **Sentence-Transformers, zero-shot intent classification, and personalized ranking**. Achieved **0.87 recommendation F1** and reduced vector-search latency using **PostgreSQL, pgvector, and HNSW**.
 
 ## Tech Stack
