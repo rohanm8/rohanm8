@@ -2,7 +2,7 @@
 
 **DATA SCIENCE | MACHINE LEARNING | NATURAL LANGUAGE PROCESSING**
 
-I enjoy building end-to-end ML systems—from data preprocessing and model evaluation to semantic search, recommender systems, and full-stack applications.
+I enjoy working with data to uncover patterns, extract meaningful insights, and solve real-world problems. My interests span data science, machine learning, and analytics—from exploring and analyzing large datasets to building predictive models, semantic search systems, recommender systems, and full-stack applications.
 
 ## Featured Work
 
